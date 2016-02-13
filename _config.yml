@@ -1,7 +1,7 @@
 name: Hand Whittled
 favicon: null
-layout_spectrum: 0.17551981541328132
-typography_spectrum: 0.18793118884786963
+layout_spectrum: 0
+typography_spectrum: 0.46172
 title: hand whittled
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#9e4fa2'
+    - '#000000'
+    - '#f09403'
+    - '#ff00ff'
+    - '#ffffff'
   brandStrength: 0.043517990969121456
-  lightness: 0.9792080176994205
-  saturation: 0.9752175803296268
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0.18425473989918828
 purpose: []
